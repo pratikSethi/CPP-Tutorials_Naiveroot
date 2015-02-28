@@ -1,2 +1,2 @@
 # CPP-Tutorials_Naiveroot
-C++ Example code for beginners :)
+C++ Example codes for beginners :)
